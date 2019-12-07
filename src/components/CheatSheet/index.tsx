@@ -12,9 +12,22 @@ const Container = styled.div`
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  height: 100rem;
+  align-content: start;
 `;
 
-const Separator = styled.hr``;
+const Breaker = styled.div`
+  with: 0;
+  height: 0;
+  break-after: always;
+  background-color: red;
+`;
+
+
+const Separator = styled.hr`
+  margin: 1rem 0;
+  border: 1px solid lightgray;
+`;
 
 const CheatSheet: React.FC = () => {
   return (
@@ -48,6 +61,7 @@ const CheatSheet: React.FC = () => {
         <CardTitle>Delete without preserving order</CardTitle>
         <Code>{codes["Delete without preserving order"]}</Code>
       </Card>
+      <Breaker />
       <Card>
         <CardTitle>Cut (GC)</CardTitle>
         <Code>{codes["Cut (GC)"]}</Code>
@@ -68,6 +82,7 @@ const CheatSheet: React.FC = () => {
         <CardTitle>Extend</CardTitle>
         <Code>{codes.Extend}</Code>
       </Card>
+      <Breaker />
       <Card>
         <CardTitle>Filter (in place)</CardTitle>
         <Code>{codes["Filter (in place)"]}</Code>

@@ -9,6 +9,7 @@ const Pre = styled.pre`
   border-radius: 1rem;
   padding: 1rem 1.5rem !important;
   line-height: 1.8rem;
+  margin: .5rem 0;
 `
 
 const Code: React.FC = ({ children }) => {
