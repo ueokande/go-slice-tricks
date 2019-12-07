@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import CheatSheet from './components/CheatSheet';
 import * as serviceWorker from './serviceWorker';
 import { createGlobalStyle } from 'styled-components';
 
@@ -23,7 +23,7 @@ const GlobalStyle = createGlobalStyle`
 ReactDOM.render(
   <React.Fragment>
     <GlobalStyle />
-    <App />
+    <CheatSheet />
   </React.Fragment>
   , document.getElementById('root'));
 
