@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import CheatSheet from "./components/CheatSheet";
 import { createGlobalStyle } from "styled-components";
+import "highlight.js/styles/a11y-dark.css";
 
 const GlobalStyle = createGlobalStyle`
   body {
