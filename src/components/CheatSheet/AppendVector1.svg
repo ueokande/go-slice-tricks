@@ -1,0 +1,40 @@
+<svg width="480" height="160" version="1.1" viewBox="0 0 127 42.333" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="marker5755" style="overflow:visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;stroke-width:1pt;stroke:#000"/>
+  </marker>
+  <marker id="marker5329" style="overflow:visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;stroke-width:1pt;stroke:#000"/>
+  </marker>
+  <marker id="marker4987" style="overflow:visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;stroke-width:1pt;stroke:#000"/>
+  </marker>
+  <marker id="marker4939" style="overflow:visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;stroke-width:1pt;stroke:#000"/>
+  </marker>
+ </defs>
+ <rect x="7.9375" y="26.458" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="15.875" y="26.458" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="23.812" y="26.458" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="31.75" y="26.458" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="39.688" y="26.458" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <text x="6.3704338" y="32.176743" style="fill:#000000;font-family:unset;font-size:5.6444px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan x="6.3704338" y="32.176743" style="font-family:unset;font-size:5.6444px;stroke-width:.26458px;text-align:end;text-anchor:end">a</tspan></text>
+ <rect x="55.562" y="5.2916" width="7.9375" height="7.9375" style="fill:#2a7fff;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="63.5" y="5.2916" width="7.9375" height="7.9375" style="fill:#2a7fff;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="71.438" y="5.2916" width="7.9375" height="7.9375" style="fill:#2a7fff;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="79.375" y="5.2916" width="7.9375" height="7.9375" style="fill:#2a7fff;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <text x="53.711952" y="11.293534" style="fill:#000000;font-family:unset;font-size:5.6444px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan x="53.711952" y="11.293534" style="font-family:unset;font-size:5.6444px;stroke-width:.26458px;text-align:end;text-anchor:end">b</tspan></text>
+ <rect x="87.312" y="26.458" width="7.9375" height="7.9375" style="fill:none;stroke-dasharray:0.396875, 1.190625;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="95.25" y="26.458" width="7.9375" height="7.9375" style="fill:none;stroke-dasharray:0.396875, 1.190625;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m59.531 14.552 2e-6 10.583" style="fill:none;marker-end:url(#marker4939);stroke-width:.26458px;stroke:#000"/>
+ <path d="m67.469 14.552 2e-6 10.583" style="fill:none;marker-end:url(#marker4987);stroke-width:.26458px;stroke:#000"/>
+ <path d="m75.406 14.552 2e-6 10.583" style="fill:none;marker-end:url(#marker5329);stroke-width:.26458px;stroke:#000"/>
+ <path d="m83.344 14.552 2e-6 10.583" style="fill:none;marker-end:url(#marker5755);stroke-width:.26458px;stroke:#000"/>
+ <rect x="47.625" y="26.458" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <text x="51.546505" y="37.797592" style="fill:#000000;font-family:unset;font-size:3.5278px;letter-spacing:0px;stroke-width:.26458px;word-spacing:0px" xml:space="preserve"><tspan x="51.546505" y="37.797592" style="font-family:unset;font-size:3.5278px;stroke-width:.26458px">len(a)</tspan></text>
+ <text x="98.784523" y="37.844833" style="fill:#000000;font-family:unset;font-size:3.5278px;letter-spacing:0px;stroke-width:.26458px;word-spacing:0px" xml:space="preserve"><tspan x="98.784523" y="37.844833" style="font-family:unset;font-size:3.5278px;stroke-width:.26458px">cap(a)</tspan></text>
+ <rect x="55.562" y="26.458" width="7.9375" height="7.9375" style="fill:none;stroke-dasharray:0.396875, 1.190625;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="63.5" y="26.458" width="7.9375" height="7.9375" style="fill:none;stroke-dasharray:0.396875, 1.190625;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="71.438" y="26.458" width="7.9375" height="7.9375" style="fill:none;stroke-dasharray:0.396875, 1.190625;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="79.375" y="26.458" width="7.9375" height="7.9375" style="fill:none;stroke-dasharray:0.396875, 1.190625;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+</svg>

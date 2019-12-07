@@ -1,0 +1,22 @@
+<svg width="480" height="110" version="1.1" viewBox="0 0 127 29.104" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="marker6121" style="overflow:visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;stroke-width:1pt;stroke:#000"/>
+  </marker>
+ </defs>
+ <rect x="7.9375" y="7.9375" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="15.875" y="7.9375" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="23.812" y="7.9375" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="31.75" y="7.9375" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="39.688" y="7.9375" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <text x="6.3704338" y="13.655913" style="fill:#000000;font-family:unset;font-size:5.6444px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan x="6.3704338" y="13.655913" style="font-family:unset;font-size:5.6444px;stroke-width:.26458px;text-align:end;text-anchor:end">a</tspan></text>
+ <rect x="87.312" y="7.9375" width="7.9375" height="7.9375" style="fill:none;stroke-dasharray:0.396875, 1.190625;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="95.25" y="7.9375" width="7.9375" height="7.9375" style="fill:none;stroke-dasharray:0.396875, 1.190625;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="47.625" y="7.9375" width="7.9375" height="7.9375" style="fill:#b3b3b3;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <text x="51.188637" y="6.6985426" style="fill:#000000;font-family:sans-serif;font-size:3.5278px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;word-spacing:0px" xml:space="preserve"><tspan x="51.188637" y="6.6985426" style="font-size:3.5278px;stroke-width:.26458px">i</tspan></text>
+ <rect x="63.5" y="7.9375" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="71.438" y="7.9375" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="79.375" y="7.9375" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="55.562" y="7.9375" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m82.021 17.198c-0.38818 1.5104-6.8433 2.6253-13.891 2.6458-3.8358 0-7.3084-0.29614-9.8222-0.77495-2.5137-0.4788-2.6794-1.0771-4.0685-1.8709" style="fill:none;marker-end:url(#marker6121);stroke-linecap:square;stroke-width:.26458;stroke:#000"/>
+</svg>

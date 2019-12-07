@@ -1,0 +1,54 @@
+<svg width="480" height="170" version="1.1" viewBox="0 0 127 44.979" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="marker6121" style="overflow:visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;stroke-width:1pt;stroke:#000"/>
+  </marker>
+  <marker id="marker6121-5" style="overflow:visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;stroke-width:1pt;stroke:#000"/>
+  </marker>
+  <marker id="marker6121-5-6" style="overflow:visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;stroke-width:1pt;stroke:#000"/>
+  </marker>
+ </defs>
+ <text x="6.3704338" y="29.530914" style="fill:#000000;font-family:unset;font-size:5.6444px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan x="6.3704338" y="29.530914" style="font-family:unset;font-size:5.6444px;stroke-width:.26458px;text-align:end;text-anchor:end">a</tspan></text>
+ <rect x="87.312" y="23.813" width="7.9375" height="7.9375" style="fill:none;stroke-dasharray:0.396875, 1.190625;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="95.25" y="23.813" width="7.9375" height="7.9375" style="fill:none;stroke-dasharray:0.396875, 1.190625;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m66.146 25.136c-0.18485 3.7761-3.2587 6.5631-6.6146 6.6146-1.8266 0-3.4802-0.74036-4.6772-1.9374-1.197-1.197-1.2759-2.6928-1.9374-4.6772" style="fill:none;marker-end:url(#marker6121);stroke-linecap:square;stroke-width:.26458;stroke:#000"/>
+ <path d="m74.083 25.136c-0.18485 3.7761-3.2587 6.5631-6.6146 6.6146-1.8266 0-3.4802-0.74036-4.6772-1.9374-1.197-1.197-1.2759-2.6928-1.9374-4.6772" style="fill:none;marker-end:url(#marker6121);stroke-linecap:square;stroke-width:.26458;stroke:#000"/>
+ <path d="m82.021 25.136c-0.18485 3.7761-3.2587 6.5631-6.6146 6.6146-1.8266 0-3.4802-0.74036-4.6772-1.9374-1.197-1.197-1.2759-2.6928-1.9374-4.6772" style="fill:none;marker-end:url(#marker6121);stroke-linecap:square;stroke-width:.26458;stroke:#000"/>
+ <g transform="translate(-55.562 -.00058251)">
+  <rect x="63.5" y="23.813" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+  <rect x="63.5" y="23.812" width="7.9375" height="7.9375" style="fill:#ff2a2a;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+  <rect x="64.369" y="24.606" width="6.2002" height="6.35" ry=".55217" style="fill:#fc0"/>
+ </g>
+ <g transform="translate(-47.625 -.00058251)">
+  <rect x="63.5" y="23.813" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+  <rect x="63.5" y="23.812" width="7.9375" height="7.9375" style="fill:#ff2a2a;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+  <rect x="64.369" y="24.606" width="6.2002" height="6.35" ry=".55217" style="fill:#fc0"/>
+ </g>
+ <g transform="translate(-31.75 -.00058251)">
+  <rect x="63.5" y="23.813" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+  <rect x="63.5" y="23.812" width="7.9375" height="7.9375" style="fill:#ff2a2a;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+  <rect x="64.369" y="24.606" width="6.2002" height="6.35" ry=".55217" style="fill:#fc0"/>
+ </g>
+ <g transform="translate(-15.875 -.00058251)">
+  <rect x="63.5" y="23.813" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+  <rect x="63.5" y="23.812" width="7.9375" height="7.9375" style="fill:#ff2a2a;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+  <rect x="64.369" y="24.606" width="6.2002" height="6.35" ry=".55217" style="fill:#fc0"/>
+ </g>
+ <g transform="translate(7.9375 -.00058251)">
+  <rect x="63.5" y="23.813" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+  <rect x="63.5" y="23.812" width="7.9375" height="7.9375" style="fill:#ff2a2a;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+  <rect x="64.369" y="24.606" width="6.2002" height="6.35" ry=".55217" style="fill:#fc0"/>
+ </g>
+ <rect x="23.812" y="23.812" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="39.688" y="23.812" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="55.562" y="23.812" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="63.5" y="23.812" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="79.375" y="23.812" width="7.9375" height="7.9375" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m34.396 33.585c-0.07394 1.5104-1.3035 2.6252-2.6458 2.6458-0.73064 0-1.3921-0.29614-1.8709-0.77496-0.4788-0.4788-0.51036-1.0771-0.77496-1.8709" style="fill:none;marker-end:url(#marker6121-5);stroke-linecap:square;stroke-width:.26458;stroke:#000"/>
+ <path d="m13.3 33.073c0.486 0.49405 0.75876 1.1591 0.75964 1.8521 0 1.4613-1.1846 2.6458-2.6458 2.6458-1.4613 0-2.6458-1.1846-2.6458-2.6458 1.96e-4 -0.69266 0.52917-1.3229 0.75706-1.8521" style="fill:none;marker-end:url(#marker6121);stroke-linecap:square;stroke-width:.26458;stroke:#000"/>
+ <path d="m21.167 33.073c0.486 0.49405 0.75876 1.1591 0.75964 1.8521 0 1.4613-1.1846 2.6458-2.6458 2.6458-1.4613 0-2.6458-1.1846-2.6458-2.6458 1.96e-4 -0.69266 0.52917-1.3229 0.75706-1.8521" style="fill:none;marker-end:url(#marker6121);stroke-linecap:square;stroke-width:.26458;stroke:#000"/>
+ <path d="m74.083 33.073c-0.42515 3.7761-7.495 6.5631-15.214 6.6146-4.2012 0-8.0044-0.74036-10.758-1.9374-2.7531-1.197-2.9346-2.6928-4.456-4.6772" style="fill:none;marker-end:url(#marker6121-5-6);stroke-linecap:square;stroke-width:.26458;stroke:#000"/>
+ <path d="m50.271 33.073c-0.18485 1.5104-3.2587 2.6252-6.6146 2.6458-1.8266 0-3.4802-0.29614-4.6772-0.77496-1.197-0.4788-1.2759-1.0771-1.9374-1.8709" style="fill:none;marker-end:url(#marker6121-5);stroke-linecap:square;stroke-width:.26458;stroke:#000"/>
+</svg>

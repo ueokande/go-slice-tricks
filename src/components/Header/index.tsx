@@ -2,15 +2,34 @@ import React from "react";
 import Card from "../Card";
 import styled from "styled-components";
 
-const ContentContainer = styled.div`
-  background-color: #e0e0e0;
+interface Props {
+  title: string;
+  link: string;
+}
+
+const Container = styled(Card)``;
+
+const Title = styled.h1``;
+
+const Link = styled.a`
+  &:link,
+  &:visited {
+    color: #333;
+    text-decoration: none;
+  }
+  &:hover,
+  &:active {
+    color: #333;
+    text-decoration: underline;
+  }
 `;
 
-const Header: React.FC = ({ children }) => {
+const Header: React.FC<Props> = ({ title, link }) => {
   return (
-    <Card>
-      <ContentContainer>{children}</ContentContainer>
-    </Card>
+    <Container>
+      <Title>{title}</Title>
+      <Link href={link}>{link}</Link>
+    </Container>
   );
 };
 
