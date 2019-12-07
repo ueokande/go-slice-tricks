@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import CheatSheet from './components/CheatSheet';
-import { createGlobalStyle } from 'styled-components';
+import React from "react";
+import ReactDOM from "react-dom";
+import CheatSheet from "./components/CheatSheet";
+import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
   body {
@@ -23,5 +23,6 @@ ReactDOM.render(
   <React.Fragment>
     <GlobalStyle />
     <CheatSheet />
-  </React.Fragment>
-  , document.getElementById('root'));
+  </React.Fragment>,
+  document.getElementById("root")
+);
