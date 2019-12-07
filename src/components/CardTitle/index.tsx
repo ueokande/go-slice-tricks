@@ -1,7 +1,12 @@
 import React from "react";
+import styled from "styled-components";
+
+const Title = styled.h2`
+  font-size: 1.2rem;
+`;
 
 const CardTitle: React.FC = ({ children }) => {
-  return <h2>{children}</h2>;
+  return <Title>{children}</Title>;
 };
 
 export default CardTitle;

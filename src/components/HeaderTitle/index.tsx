@@ -1,7 +1,8 @@
 import React from "react";
+import CardTitle from "../CardTitle";
 
 const HeaderTitle: React.FC = ({ children }) => {
-  return <h2>{children}</h2>;
+  return <CardTitle>{children}</CardTitle>;
 };
 
 export default HeaderTitle;
