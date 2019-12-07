@@ -37,5 +37,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@cybozu/eslint-config": "^8.1.0",
+    "eslint": "^6.7.2",
+    "prettier": "^1.19.1"
   }
 }
