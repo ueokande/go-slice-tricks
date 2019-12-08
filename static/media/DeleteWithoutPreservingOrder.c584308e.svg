@@ -1,0 +1,20 @@
+<svg width="480" height="100" version="1.1" viewBox="0 0 127 26.458" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="marker17079" style="overflow:visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;stroke-linejoin:round;stroke-width:.625;stroke:#000"/>
+  </marker>
+ </defs>
+ <text x="6.3427548" y="14.744195" style="fill:#000000;font-family:unset;font-size:5.6444px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan x="6.3427548" y="14.744195" style="font-family:unset;font-size:5.6444px;stroke-width:.26458px;text-align:end;text-anchor:end">a</tspan></text>
+ <rect x="7.9375" y="7.9374" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="18.521" y="7.9374" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="29.104" y="7.9374" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="39.688" y="7.9374" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="50.271" y="7.9374" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="71.438" y="7.9373" width="10.583" height="10.583" style="fill:#b3b3b3;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="60.854" y="7.9373" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="82.021" y="7.9374" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="92.604" y="7.9374" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="103.19" y="7.9374" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <text x="77.442368" y="5.5966945" style="fill:#000000;font-family:unset;font-size:4.2333px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan x="77.442368" y="5.5966945" style="font-family:unset;font-size:4.2333px;stroke-width:.26458px;text-align:end;text-anchor:end">i</tspan></text>
+ <path d="m105.83 19.833c-0.36945 2.2857-6.5165 3.9727-13.227 4.0038-6.0123-0.01736-9.6758-0.67471-13.228-4.0038" style="fill:none;marker-end:url(#marker17079);stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+</svg>

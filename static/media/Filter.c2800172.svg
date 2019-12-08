@@ -1,0 +1,33 @@
+<svg width="480" height="80" version="1.1" viewBox="0 0 127 21.167" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="marker36932" style="overflow:visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;stroke-linejoin:round;stroke-width:.625;stroke:#000"/>
+  </marker>
+  <marker id="marker28713" style="overflow:visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;stroke-linejoin:round;stroke-width:.625;stroke:#000"/>
+  </marker>
+  <marker id="marker12804" style="overflow:visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175 0 8.0354z" style="fill-rule:evenodd;stroke-linejoin:round;stroke-width:.625;stroke:#000"/>
+  </marker>
+ </defs>
+ <text x="8.9882584" y="10.775857" style="fill:#000000;font-family:unset;font-size:5.6444px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan x="8.9882584" y="10.775857" style="font-family:unset;font-size:5.6444px;stroke-width:.26458px;text-align:end;text-anchor:end">a</tspan></text>
+ <rect x="10.583" y="3.9691" width="10.583" height="10.583" style="fill:#ff2a2a;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="21.167" y="3.9691" width="10.583" height="10.583" style="fill:#ff2a2a;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="31.75" y="3.9691" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="42.334" y="3.9691" width="10.583" height="10.583" style="fill:#ff2a2a;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="52.916" y="3.9691" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="74.083" y="3.969" width="10.583" height="10.583" style="fill:#ff2a2a;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="63.5" y="3.969" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="84.667" y="3.9691" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="95.249" y="3.9691" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="105.84" y="3.9691" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m17.462 15.875c0.486 0.49405 0.75876 1.1591 0.75964 1.8521 0 1.4613-1.1846 2.6458-2.6458 2.6458-1.4613 0-2.6458-1.1846-2.6458-2.6458 1.96e-4 -0.69266 0.52917-1.3229 0.75706-1.8521" style="fill:none;marker-end:url(#marker28713);stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m28.045 15.875c0.486 0.49405 0.75876 1.1591 0.75964 1.8521 0 1.4613-1.1846 2.6458-2.6458 2.6458-1.4613 0-2.6458-1.1846-2.6458-2.6458 1.96e-4 -0.69266 0.52917-1.3229 0.75706-1.8521" style="fill:none;marker-end:url(#marker36932);stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m44.979 15.875c-0.07394 1.7321-1.3035 3.0105-2.6458 3.0342-0.73064 0-1.3921-0.33961-1.8709-0.8887-0.4788-0.54907-0.51036-1.2352-0.77496-2.1455" style="fill:none;marker-end:url(#marker12804);stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m66.145 15.875c-0.22182 1.7321-3.9105 3.0105-7.9374 3.0342-2.1919 0-4.1763-0.33961-5.6127-0.8887-1.4364-0.54907-1.5311-1.2352-2.3249-2.1455" style="fill:none;marker-end:url(#marker12804);stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m87.312 15.875c-0.3697 1.7321-6.5175 3.0105-13.229 3.0342-3.6532 0-6.9605-0.33961-9.3545-0.8887-2.394-0.54907-2.5518-1.2352-3.8748-2.1455" style="fill:none;marker-end:url(#marker12804);stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="11.906" y="5.292" width="7.9375" height="7.9375" ry="1.3229" style="fill:#fc0"/>
+ <rect x="22.489" y="5.292" width="7.9375" height="7.9375" ry="1.3229" style="fill:#fc0"/>
+ <rect x="43.656" y="5.292" width="7.9375" height="7.9375" ry="1.3229" style="fill:#fc0"/>
+ <rect x="75.406" y="5.292" width="7.9375" height="7.9375" ry="1.3229" style="fill:#fc0"/>
+</svg>

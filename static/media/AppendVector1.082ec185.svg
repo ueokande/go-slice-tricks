@@ -1,0 +1,33 @@
+<svg width="480" height="160" version="1.1" viewBox="0 0 127 42.333" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="marker5264" style="overflow:visible" orient="auto">
+   <path transform="scale(.6) rotate(180) translate(0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;stroke-linejoin:round;stroke-width:.625;stroke:#000"/>
+  </marker>
+  <marker id="marker5254" style="overflow:visible" orient="auto">
+   <path transform="scale(.6) rotate(180) translate(0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;stroke-linejoin:round;stroke-width:.625;stroke:#000"/>
+  </marker>
+  <marker id="Arrow2Mend" style="overflow:visible" orient="auto">
+   <path transform="scale(.6) rotate(180) translate(0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;stroke-linejoin:round;stroke-width:.625;stroke:#000"/>
+  </marker>
+ </defs>
+ <rect x="11.906" y="23.812" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <text x="10.379477" y="30.773577" style="fill:#000000;font-family:unset;font-size:5.6444px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan x="10.379477" y="30.773577" style="font-family:unset;font-size:5.6444px;stroke-width:.26458px;text-align:end;text-anchor:end">a</tspan></text>
+ <text x="56.531761" y="39.846485" style="fill:#000000;font-family:unset;font-size:5.6444px;letter-spacing:0px;stroke-width:.26458px;word-spacing:0px" xml:space="preserve"><tspan x="56.531761" y="39.846485" style="font-family:unset;font-size:5.6444px;stroke-width:.26458px">len(a)</tspan></text>
+ <text x="107.27949" y="39.628754" style="fill:#000000;font-family:unset;font-size:5.6444px;letter-spacing:0px;stroke-width:.26458px;word-spacing:0px" xml:space="preserve"><tspan x="107.27949" y="39.628754" style="font-family:unset;font-size:5.6444px;stroke-width:.26458px">cap(a)</tspan></text>
+ <rect x="22.489" y="23.813" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="33.072" y="23.813" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="43.656" y="23.813" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="54.239" y="23.813" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="64.822" y="23.812" width="10.583" height="10.583" style="fill:none;stroke-dasharray:0.39687498, 1.19062495;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="75.407" y="23.812" width="10.583" height="10.583" style="fill:none;stroke-dasharray:0.39687498, 1.19062495;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="85.991" y="23.812" width="10.583" height="10.583" style="fill:none;stroke-dasharray:0.39687498, 1.19062495;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="96.574" y="23.812" width="10.583" height="10.583" style="fill:none;stroke-dasharray:0.39687498, 1.19062495;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="107.16" y="23.812" width="10.583" height="10.583" style="fill:none;stroke-dasharray:0.39687498, 1.19062495;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <text x="62.910496" y="9.9036837" style="fill:#000000;font-family:unset;font-size:5.6444px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan x="62.910496" y="9.9036837" style="font-family:unset;font-size:5.6444px;stroke-width:.26458px;text-align:end;text-anchor:end">b</tspan></text>
+ <rect x="64.823" y="2.6458" width="10.583" height="10.583" style="fill:#2a7fff;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="75.406" y="2.6458" width="10.583" height="10.583" style="fill:#2a7fff;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="85.99" y="2.6458" width="10.583" height="10.583" style="fill:#2a7fff;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m70.115 14.552v7.4083" style="fill:none;marker-end:url(#marker5254);stroke-width:.39687;stroke:#000"/>
+ <path d="m80.698 14.552v7.4083" style="fill:none;marker-end:url(#Arrow2Mend);stroke-width:.39687;stroke:#000"/>
+ <path d="m91.281 14.552v7.4083" style="fill:none;marker-end:url(#marker5264);stroke-width:.39687;stroke:#000"/>
+</svg>

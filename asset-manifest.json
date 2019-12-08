@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6e337048.chunk.js",
+    "main.js.map": "/static/js/main.6e337048.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a8de6843.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a8de6843.js.map",
+    "static/css/2.2f5bb179.chunk.css": "/static/css/2.2f5bb179.chunk.css",
+    "static/js/2.f6406b55.chunk.js": "/static/js/2.f6406b55.chunk.js",
+    "static/js/2.f6406b55.chunk.js.map": "/static/js/2.f6406b55.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2a0f6e4528d1228bdccd4e86bee98f08.js": "/precache-manifest.2a0f6e4528d1228bdccd4e86bee98f08.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2f5bb179.chunk.css.map": "/static/css/2.2f5bb179.chunk.css.map",
+    "static/js/2.f6406b55.chunk.js.LICENSE": "/static/js/2.f6406b55.chunk.js.LICENSE",
+    "static/media/AppendVector1.082ec185.svg": "/static/media/AppendVector1.082ec185.svg",
+    "static/media/AppendVector2.17f54195.svg": "/static/media/AppendVector2.17f54195.svg",
+    "static/media/Copy.9eb3bbf2.svg": "/static/media/Copy.9eb3bbf2.svg",
+    "static/media/Cut.7902dce2.svg": "/static/media/Cut.7902dce2.svg",
+    "static/media/CutGC.aef0e233.svg": "/static/media/CutGC.aef0e233.svg",
+    "static/media/Delete1.912bdecd.svg": "/static/media/Delete1.912bdecd.svg",
+    "static/media/DeleteGC.301a92fb.svg": "/static/media/DeleteGC.301a92fb.svg",
+    "static/media/DeleteWithoutPreservingOrder.c584308e.svg": "/static/media/DeleteWithoutPreservingOrder.c584308e.svg",
+    "static/media/DeleteWithoutPreservingOrderGC.03224077.svg": "/static/media/DeleteWithoutPreservingOrderGC.03224077.svg",
+    "static/media/Expand.8b126a0a.svg": "/static/media/Expand.8b126a0a.svg",
+    "static/media/Extend.1a701200.svg": "/static/media/Extend.1a701200.svg",
+    "static/media/Filter.c2800172.svg": "/static/media/Filter.c2800172.svg",
+    "static/media/Insert.e90bce1c.svg": "/static/media/Insert.e90bce1c.svg",
+    "static/media/InsertVector.49df6909.svg": "/static/media/InsertVector.49df6909.svg",
+    "static/media/Pop.76ffc732.svg": "/static/media/Pop.76ffc732.svg",
+    "static/media/Push.a3285306.svg": "/static/media/Push.a3285306.svg",
+    "static/media/Shift.9e5d9023.svg": "/static/media/Shift.9e5d9023.svg",
+    "static/media/Unshift.0d2da527.svg": "/static/media/Unshift.0d2da527.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8de6843.js",
+    "static/css/2.2f5bb179.chunk.css",
+    "static/js/2.f6406b55.chunk.js",
+    "static/js/main.6e337048.chunk.js"
+  ]
+}

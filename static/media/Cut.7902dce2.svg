@@ -1,0 +1,29 @@
+<svg width="480" height="120" version="1.1" viewBox="0 0 127 31.75" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="marker14376" style="overflow:visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;stroke-linejoin:round;stroke-width:.625;stroke:#000"/>
+  </marker>
+  <marker id="marker14166" style="overflow:visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;stroke-linejoin:round;stroke-width:.625;stroke:#000"/>
+  </marker>
+  <marker id="marker12804" style="overflow:visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;stroke-linejoin:round;stroke-width:.625;stroke:#000"/>
+  </marker>
+ </defs>
+ <text x="8.9885845" y="18.712944" style="fill:#000000;font-family:unset;font-size:5.6444px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan x="8.9885845" y="18.712944" style="font-family:unset;font-size:5.6444px;stroke-width:.26458px;text-align:end;text-anchor:end">a</tspan></text>
+ <rect x="10.583" y="11.906" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="21.167" y="11.906" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="31.75" y="11.906" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="42.333" y="11.906" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="52.917" y="11.906" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="63.5" y="11.906" width="10.583" height="10.583" style="fill:#b3b3b3;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="74.083" y="11.906" width="10.583" height="10.583" style="fill:#b3b3b3;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="84.667" y="11.906" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="95.25" y="11.906" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <rect x="105.83" y="11.906" width="10.583" height="10.583" style="fill:#fc0;stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m87.313 23.767c-0.22182 3.1188-3.9104 5.4207-7.9375 5.4632-2.1919 0-4.1762-0.61149-5.6126-1.6002-1.4364-0.98864-1.5311-2.2241-2.3249-3.8631" style="fill:none;marker-end:url(#marker12804);stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m97.896 23.767c-0.22182 3.1188-3.9104 5.4207-7.9375 5.4632-2.1919 0-4.1762-0.61149-5.6126-1.6002-1.4364-0.98864-1.5311-2.2241-2.3249-3.8631" style="fill:none;marker-end:url(#marker14166);stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <path d="m108.48 23.767c-0.22182 3.1188-3.9104 5.4207-7.9375 5.4632-2.1919 0-4.1762-0.61149-5.6126-1.6002-1.4364-0.98864-1.5311-2.2241-2.3249-3.8631" style="fill:none;marker-end:url(#marker14376);stroke-linecap:square;stroke-width:.39687;stroke:#000"/>
+ <text x="69.430084" y="9.3419733" style="fill:#000000;font-family:unset;font-size:4.2333px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan x="69.430084" y="9.3419733" style="font-family:unset;font-size:4.2333px;stroke-width:.26458px;text-align:end;text-anchor:end">i</tspan></text>
+ <text x="90.506195" y="9.3419733" style="fill:#000000;font-family:unset;font-size:4.2333px;letter-spacing:0px;line-height:125%;stroke-width:.26458px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan x="90.506195" y="9.3419733" style="font-family:unset;font-size:4.2333px;stroke-width:.26458px;text-align:end;text-anchor:end">j</tspan></text>
+</svg>
