@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Title = styled.h2`
   font-size: 1.5rem;
   line-height: 1.5rem;
-  margin: 0.5rem 0;
+  margin: 1rem 0;
 `;
 
 const CardTitle: React.FC = ({ children }) => {

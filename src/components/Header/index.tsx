@@ -1,9 +1,9 @@
 import React from "react";
-import Card from "../Card";
 import styled from "styled-components";
 
 interface Props {
   title: string;
+  author: string;
   link: string;
 }
 
@@ -16,7 +16,13 @@ const Container = styled.div`
   box-shadow: 0 0 0.4rem gray;
 `;
 
-const Title = styled.h1``;
+const Title = styled.h1`
+  font-size: 2.2rem;
+`;
+
+const Author = styled.p`
+  text-align: right;
+`;
 
 const Link = styled.a`
   &:link,
@@ -31,10 +37,11 @@ const Link = styled.a`
   }
 `;
 
-const Header: React.FC<Props> = ({ title, link }) => {
+const Header: React.FC<Props> = ({ title, author, link }) => {
   return (
     <Container>
       <Title>{title}</Title>
+      <Author>{author} </Author>
       <Link href={link}>{link}</Link>
     </Container>
   );

@@ -32,17 +32,11 @@ const Container = styled.div`
   flex-direction: column;
   flex-wrap: wrap;
   align-content: start;
-  height: 120rem;
-`;
-
-const Breaker = styled.div`
-  with: 0;
-  height: 0;
-  break-after: always;
+  height: 121rem;
 `;
 
 const Separator = styled.hr`
-  margin: 1rem 0;
+  margin: 1.2rem 0;
   border: 1px solid lightgray;
 `;
 
@@ -51,11 +45,12 @@ const CheatSheet: React.FC = () => {
     <Container>
       <Header
         title="Go Slice Tricks Cheat Sheet"
-        link="https://github.com/golang/go/wiki/SliceTricks"
+        author="@ueokande"
+        link="https://ueokande.github.io/go-slice-trics/"
       />
       <Card>
         <CardTitle>AppendVector</CardTitle>
-        <div style={{ display: 'flex',alignContent: 'center' }}>
+        <div style={{ display: "flex", alignContent: "center" }}>
           <AppendVector1Svg />
         </div>
         <Separator />
