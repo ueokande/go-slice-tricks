@@ -23,8 +23,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint --ext .tsx,.ts src",
-    "lint:fix": "eslint --ext .tsx,.ts src --fix"
+    "lint": "eslint --ext .tsx,.ts --ignore-pattern *.d.ts src",
+    "lint:fix": "eslint --ext .tsx,.ts --ignore-pattern *.d.ts src --fix"
   },
   "eslintConfig": {
     "extends": "react-app"
