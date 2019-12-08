@@ -55,7 +55,9 @@ const CheatSheet: React.FC = () => {
       />
       <Card>
         <CardTitle>AppendVector</CardTitle>
-        <AppendVector1Svg />
+        <div style={{ display: 'flex',alignContent: 'center' }}>
+          <AppendVector1Svg />
+        </div>
         <Separator />
         <AppendVector2Svg />
         <Code>{codes.AppendVector}</Code>
