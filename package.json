@@ -2,7 +2,7 @@
   "name": "go-slice-tricks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ueokande.github.io/go-slice-trics/",
+  "homepage": "https://ueokande.github.io/go-slice-tricks/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
