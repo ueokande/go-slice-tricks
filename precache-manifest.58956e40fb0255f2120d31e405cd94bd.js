@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "540d21fb1b95a88253cc9404abbcc5f2",
+    "revision": "7bb05bd461ad2d2589c245807cc00d2b",
     "url": "/go-slice-trics/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/go-slice-trics/static/js/2.c857aac9.chunk.js.LICENSE"
   },
   {
-    "revision": "0f75a384c05581b5853b",
-    "url": "/go-slice-trics/static/js/main.235136bc.chunk.js"
+    "revision": "784bb5e501a34adf311d",
+    "url": "/go-slice-trics/static/js/main.b9306545.chunk.js"
   },
   {
     "revision": "f9d9915db95dcc6887f1",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/go-slice-trics/static/media/Push.a3285306.svg"
   },
   {
-    "revision": "d94610560b4008cd58a20dd4b150e2de",
-    "url": "/go-slice-trics/static/media/Shift.d9461056.svg"
+    "revision": "b1c3fdeee10371f7a08a1b455b26815c",
+    "url": "/go-slice-trics/static/media/Shift.b1c3fdee.svg"
   },
   {
     "revision": "0d2da5275705cb02fdaf0e45a658b5e6",
