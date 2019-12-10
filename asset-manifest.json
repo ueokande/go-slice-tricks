@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/go-slice-tricks/static/js/main.a46b8e37.chunk.js",
-    "main.js.map": "/go-slice-tricks/static/js/main.a46b8e37.chunk.js.map",
+    "main.js": "/go-slice-tricks/static/js/main.db88eff8.chunk.js",
+    "main.js.map": "/go-slice-tricks/static/js/main.db88eff8.chunk.js.map",
     "runtime-main.js": "/go-slice-tricks/static/js/runtime-main.b52d4d05.js",
     "runtime-main.js.map": "/go-slice-tricks/static/js/runtime-main.b52d4d05.js.map",
     "static/css/2.2f5bb179.chunk.css": "/go-slice-tricks/static/css/2.2f5bb179.chunk.css",
     "static/js/2.f9632dfa.chunk.js": "/go-slice-tricks/static/js/2.f9632dfa.chunk.js",
     "static/js/2.f9632dfa.chunk.js.map": "/go-slice-tricks/static/js/2.f9632dfa.chunk.js.map",
     "index.html": "/go-slice-tricks/index.html",
-    "precache-manifest.8e844b968694faaad3463021d3883e50.js": "/go-slice-tricks/precache-manifest.8e844b968694faaad3463021d3883e50.js",
+    "precache-manifest.8a279b66a17de61847d8ca98de2c2009.js": "/go-slice-tricks/precache-manifest.8a279b66a17de61847d8ca98de2c2009.js",
     "service-worker.js": "/go-slice-tricks/service-worker.js",
     "static/css/2.2f5bb179.chunk.css.map": "/go-slice-tricks/static/css/2.2f5bb179.chunk.css.map",
     "static/js/2.f9632dfa.chunk.js.LICENSE": "/go-slice-tricks/static/js/2.f9632dfa.chunk.js.LICENSE",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.b52d4d05.js",
     "static/css/2.2f5bb179.chunk.css",
     "static/js/2.f9632dfa.chunk.js",
-    "static/js/main.a46b8e37.chunk.js"
+    "static/js/main.db88eff8.chunk.js"
   ]
 }
