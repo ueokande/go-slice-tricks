@@ -46,7 +46,7 @@ const CheatSheet: React.FC = () => {
       <Header
         title="Go Slice Tricks Cheat Sheet"
         author="@ueokande"
-        link="https://ueokande.github.io/go-slice-tricks/"
+        link="https://github.com/golang/go/wiki/SliceTricks"
       />
       <Card>
         <CardTitle>AppendVector</CardTitle>
