@@ -24,6 +24,10 @@ jobs:
         GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
 
       run: |
+        if [ "$GITHUB_REF" != "refs/heads/master" ]; then
+          exit 0
+        fi
+
         git config --global user.name "Shin'ya Ueoka"
         git config --global user.email "ueokande@i-beam.org"
 
