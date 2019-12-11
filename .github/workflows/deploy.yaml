@@ -18,10 +18,15 @@ jobs:
     - run: yarn install
     - run: yarn lint
     - run: yarn build
-    - env:
+    - name: deploy to gh-pages
+      env:
         DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
+
       run: |
+        git config --global user.name "Shin'ya Ueoka"
+        git config --global user.email "ueokande@i-beam.org"
+
         eval "$(ssh-agent -s)"
         ssh-add - <<< "${DEPLOY_KEY}"
 
