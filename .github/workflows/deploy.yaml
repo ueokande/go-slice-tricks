@@ -30,4 +30,4 @@ jobs:
         eval "$(ssh-agent -s)"
         ssh-add - <<< "${DEPLOY_KEY}"
 
-        yarn deploy
+        yarn deploy --repo "git@github.com:${GITHUB_REPOSITORY}"
