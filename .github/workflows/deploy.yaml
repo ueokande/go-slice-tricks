@@ -1,0 +1,37 @@
+name: Build and deploy gh-pages
+
+on:
+  push:
+    branches:
+      - "*"
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+    - run: yarn install
+    - run: yarn lint
+    - run: yarn build
+    - name: deploy to gh-pages
+      env:
+        DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+        GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
+
+      run: |
+        if [ "$GITHUB_REF" != "refs/heads/master" ]; then
+          exit 0
+        fi
+
+        git config --global user.name "Shin'ya Ueoka"
+        git config --global user.email "ueokande@i-beam.org"
+
+        eval "$(ssh-agent -s)"
+        ssh-add - <<< "${DEPLOY_KEY}"
+
+        yarn deploy --repo "git@github.com:${GITHUB_REPOSITORY}"
