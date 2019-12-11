@@ -1,0 +1,21 @@
+name: Deploy contents to Amazon S3
+
+on:
+  push:
+    branches:
+      - "*"
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+    - run: yarn install
+    - run: yarn lint
+    - run: yarn build
+    - run: yarn deploy
