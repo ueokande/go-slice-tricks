@@ -11,6 +11,7 @@
     "highlight.js": "^9.16.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-masonry-component": "^6.2.1",
     "react-scripts": "3.3.0",
     "styled-components": "^4.4.1",
     "typescript": "~3.7.2"
