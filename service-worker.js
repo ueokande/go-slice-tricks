@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/go-slice-tricks/precache-manifest.8e844b968694faaad3463021d3883e50.js"
+  "/go-slice-tricks/precache-manifest.712872f7aa4aefeb4d92f9fa971539bc.js"
 );
 
 self.addEventListener('message', (event) => {
