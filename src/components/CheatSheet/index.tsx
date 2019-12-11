@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import Masonry from 'react-masonry-component';
 
 import Header from "../Header";
 import Card from "../Card";
@@ -27,14 +28,6 @@ import { ReactComponent as Pop } from "./Pop.svg";
 import { ReactComponent as Unshift } from "./Unshift.svg";
 import { ReactComponent as Shift } from "./Shift.svg";
 
-const Container = styled.div`
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-content: start;
-  height: 121rem;
-`;
-
 const Separator = styled.hr`
   margin: 1.2rem 0;
   border: 1px solid lightgray;
@@ -42,7 +35,7 @@ const Separator = styled.hr`
 
 const CheatSheet: React.FC = () => {
   return (
-    <Container>
+    <Masonry>
       <Header
         title="Go Slice Tricks Cheat Sheet"
         author="@ueokande"
@@ -143,7 +136,7 @@ const CheatSheet: React.FC = () => {
         <Shift />
         <Code>{codes["Pop Front/Shift"]}</Code>
       </Card>
-    </Container>
+    </Masonry>
   );
 };
 

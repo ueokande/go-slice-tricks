@@ -9,8 +9,9 @@ interface Props {
 
 const Container = styled.div`
   background-color: #333;
+  min-width: 32rem;
+  max-width: 32rem;
   color: white;
-  max-width: 35rem;
   padding: 1rem;
   margin: 0.5rem;
   box-shadow: 0 0 0.4rem gray;
