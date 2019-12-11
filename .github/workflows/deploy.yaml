@@ -1,4 +1,4 @@
-name: Deploy contents to Amazon S3
+name: Build and deploy gh-pages
 
 on:
   push:
@@ -18,4 +18,11 @@ jobs:
     - run: yarn install
     - run: yarn lint
     - run: yarn build
-    - run: yarn deploy
+    - env:
+        DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+        GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
+      run: |
+        eval "$(ssh-agent -s)"
+        ssh-add - <<< "${DEPLOY_KEY}"
+
+        yarn deploy
