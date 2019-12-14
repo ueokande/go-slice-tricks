@@ -82,6 +82,7 @@ const CheatSheet: React.FC = () => {
         <Header
           title="Go Slice Tricks Cheat Sheet"
           author="@ueokande"
+          authorLink="https://github.com/ueokande/go-slice-tricks"
           link="https://github.com/golang/go/wiki/SliceTricks"
         />
         <Card>

@@ -4,6 +4,7 @@ import styled from "styled-components";
 interface Props {
   title: string;
   author: string;
+  authorLink: string;
   link: string;
 }
 
@@ -43,11 +44,13 @@ const Link = styled.a`
   }
 `;
 
-const Header: React.FC<Props> = ({ title, author, link }) => {
+const Header: React.FC<Props> = ({ title, author, authorLink, link }) => {
   return (
     <Container>
       <Title>{title}</Title>
-      <Author>{author} </Author>
+      <Author>
+        <Link href={authorLink}>{author}</Link>{" "}
+      </Author>
       <Link href={link}>{link}</Link>
     </Container>
   );
