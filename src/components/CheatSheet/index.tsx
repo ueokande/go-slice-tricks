@@ -66,6 +66,11 @@ const Container = styled.div`
   min-width: 100%;
 `;
 
+const SvgContainer = styled.div`
+  display: flex;
+  content-align: center;
+`;
+
 const CheatSheet: React.FC = () => {
   return (
     <Container>
@@ -81,16 +86,20 @@ const CheatSheet: React.FC = () => {
         />
         <Card>
           <CardTitle>AppendVector</CardTitle>
-          <div style={{ display: "flex", alignContent: "center" }}>
+          <SvgContainer>
             <AppendVector1Svg />
-          </div>
+          </SvgContainer>
           <Separator />
-          <AppendVector2Svg />
+          <SvgContainer>
+            <AppendVector2Svg />
+          </SvgContainer>
           <Code>{codes.AppendVector}</Code>
         </Card>
         <Card>
           <CardTitle>Copy</CardTitle>
-          <CopySvg />
+          <SvgContainer>
+            <CopySvg />
+          </SvgContainer>
           <Code>{codes.Copy[0]}</Code>
           <Separator />
           <Code>{codes.Copy[1]}</Code>
@@ -99,49 +108,67 @@ const CheatSheet: React.FC = () => {
         </Card>
         <Card>
           <CardTitle>Cut</CardTitle>
-          <CutSvg />
+          <SvgContainer>
+            <CutSvg />
+          </SvgContainer>
           <Code>{codes.Cut}</Code>
         </Card>
         <Card>
           <CardTitle>Delete</CardTitle>
-          <Delete1Svg />
+          <SvgContainer>
+            <Delete1Svg />
+          </SvgContainer>
           <Code>{codes.Delete[0]}</Code>
           <Separator />
           <Code>{codes.Delete[1]}</Code>
         </Card>
         <Card>
           <CardTitle>Delete without preserving order</CardTitle>
-          <DeleteWithoutPreservingOrderSvg />
+          <SvgContainer>
+            <DeleteWithoutPreservingOrderSvg />
+          </SvgContainer>
           <Code>{codes["Delete without preserving order"]}</Code>
         </Card>
         <Card>
           <CardTitle>Cut (GC)</CardTitle>
-          <CutGCSvg />
+          <SvgContainer>
+            <CutGCSvg />
+          </SvgContainer>
           <Code>{codes["Cut (GC)"]}</Code>
         </Card>
         <Card>
           <CardTitle>Delete (GC)</CardTitle>
-          <DeleteGCSvg />
+          <SvgContainer>
+            <DeleteGCSvg />
+          </SvgContainer>
           <Code>{codes["Delete (GC)"]}</Code>
         </Card>
         <Card>
           <CardTitle>Delete without preserving order (GC)</CardTitle>
-          <DeleteWithoutPreservingOrderGCSvg />
+          <SvgContainer>
+            <DeleteWithoutPreservingOrderGCSvg />
+          </SvgContainer>
           <Code>{codes["Delete without preserving order (GC)"]}</Code>
         </Card>
         <Card>
           <CardTitle>Expand</CardTitle>
-          <ExpandSvg />
+          <SvgContainer>
+            <ExpandSvg />
+          </SvgContainer>
           <Code>{codes.Expand}</Code>
         </Card>
         <Card>
           <CardTitle>Extend</CardTitle>
-          <ExtendSvg />
+          <SvgContainer>
+            <ExtendSvg />
+          </SvgContainer>
           <Code>{codes.Extend}</Code>
         </Card>
         <Card>
           <CardTitle>Filter (in place)</CardTitle>
-          <FilterSvg />
+          <SvgContainer>
+            <FilterSvg />
+          </SvgContainer>
           <Code>{codes["Filter (in place)"]}</Code>
         </Card>
         <Card>
