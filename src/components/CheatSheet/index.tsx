@@ -21,12 +21,12 @@ import { ReactComponent as DeleteWithoutPreservingOrderGCSvg } from "./DeleteWit
 import { ReactComponent as ExpandSvg } from "./Expand.svg";
 import { ReactComponent as ExtendSvg } from "./Extend.svg";
 import { ReactComponent as FilterSvg } from "./Filter.svg";
-import { ReactComponent as Insert } from "./Insert.svg";
-import { ReactComponent as InsertVector } from "./InsertVector.svg";
-import { ReactComponent as Push } from "./Push.svg";
-import { ReactComponent as Pop } from "./Pop.svg";
-import { ReactComponent as Unshift } from "./Unshift.svg";
-import { ReactComponent as Shift } from "./Shift.svg";
+import { ReactComponent as InsertSvg } from "./Insert.svg";
+import { ReactComponent as InsertVectorSvg } from "./InsertVector.svg";
+import { ReactComponent as PushSvg } from "./Push.svg";
+import { ReactComponent as PopSvg } from "./Pop.svg";
+import { ReactComponent as UnshiftSvg } from "./Unshift.svg";
+import { ReactComponent as ShiftSvg } from "./Shift.svg";
 
 const Separator = styled.hr`
   margin: 1.2rem 0;
@@ -174,32 +174,44 @@ const CheatSheet: React.FC = () => {
         </Card>
         <Card>
           <CardTitle>Insert</CardTitle>
-          <Insert />
+          <SvgContainer>
+            <InsertSvg />
+          </SvgContainer>
           <Code>{codes.Insert}</Code>
         </Card>
         <Card>
           <CardTitle>InsertVector</CardTitle>
-          <InsertVector />
+          <SvgContainer>
+            <InsertVectorSvg />
+          </SvgContainer>
           <Code>{codes.InsertVector}</Code>
         </Card>
         <Card>
           <CardTitle>Push</CardTitle>
-          <Push />
+          <SvgContainer>
+            <PushSvg />
+          </SvgContainer>
           <Code>{codes.Push}</Code>
         </Card>
         <Card>
           <CardTitle>Pop</CardTitle>
-          <Pop />
+          <SvgContainer>
+            <PopSvg />
+          </SvgContainer>
           <Code>{codes.Pop}</Code>
         </Card>
         <Card>
           <CardTitle>Push Front/Unshift</CardTitle>
-          <Unshift />
+          <SvgContainer>
+            <UnshiftSvg />
+          </SvgContainer>
           <Code>{codes["Push Front/Unshift"]}</Code>
         </Card>
         <Card>
           <CardTitle>Pop Front/Shift</CardTitle>
-          <Shift />
+          <SvgContainer>
+            <ShiftSvg />
+          </SvgContainer>
           <Code>{codes["Pop Front/Shift"]}</Code>
         </Card>
       </Masonry>
