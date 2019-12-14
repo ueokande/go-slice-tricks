@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d3bd4cacb5d1865a17f4a6056073097",
+    "revision": "ccb70f1f2bdcdad214ccf4de11ba9804",
     "url": "/go-slice-tricks/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/go-slice-tricks/static/js/2.6f1aa901.chunk.js.LICENSE"
   },
   {
-    "revision": "46bc75d386eb766979ef",
-    "url": "/go-slice-tricks/static/js/main.5cf4f687.chunk.js"
+    "revision": "14a559f6aac82093469f",
+    "url": "/go-slice-tricks/static/js/main.f5625f4d.chunk.js"
   },
   {
     "revision": "73812c69f74db93548d0",
