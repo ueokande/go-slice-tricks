@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8041981603c375c1425e8ae969692dfd",
+    "revision": "c1bfb8454093c2941b8f36ecec7fe4dd",
     "url": "/go-slice-tricks/index.html"
   },
   {
-    "revision": "38cf294f224a1a897d69",
+    "revision": "1b77a3d3ad81544ce1f0",
     "url": "/go-slice-tricks/static/css/2.2f5bb179.chunk.css"
   },
   {
-    "revision": "38cf294f224a1a897d69",
-    "url": "/go-slice-tricks/static/js/2.f9632dfa.chunk.js"
+    "revision": "1b77a3d3ad81544ce1f0",
+    "url": "/go-slice-tricks/static/js/2.6f1aa901.chunk.js"
   },
   {
-    "revision": "fd228f9b9a68ce6b23a6cf8b0a38a0e3",
-    "url": "/go-slice-tricks/static/js/2.f9632dfa.chunk.js.LICENSE"
+    "revision": "0f1c1ec567c23043b699a816bd3a2cfa",
+    "url": "/go-slice-tricks/static/js/2.6f1aa901.chunk.js.LICENSE"
   },
   {
-    "revision": "56af982237679188ea7a",
-    "url": "/go-slice-tricks/static/js/main.bec588c8.chunk.js"
+    "revision": "46bc75d386eb766979ef",
+    "url": "/go-slice-tricks/static/js/main.5cf4f687.chunk.js"
   },
   {
     "revision": "73812c69f74db93548d0",
