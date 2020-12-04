@@ -8,7 +8,7 @@
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
     "@types/styled-components": "^4.4.0",
-    "highlight.js": "^9.16.2",
+    "highlight.js": "^10.4.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-masonry-component": "^6.2.1",
