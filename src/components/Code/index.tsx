@@ -1,9 +1,10 @@
 import React from "react";
 import styled from "styled-components";
 
-const hljs = require("highlight.js/lib/highlight");
-const go = require("highlight.js/lib/languages/go");
-hljs.registerLanguage("go", go);
+
+import hljs from 'highlight.js';
+import go from "highlight.js/lib/languages/go";
+hljs.registerLanguage("go", go)
 
 const Pre = styled.pre`
   border-radius: 1rem;
@@ -16,7 +17,7 @@ const Code: React.FC = ({ children }) => {
   const ref = React.createRef<HTMLPreElement>();
 
   React.useEffect(() => {
-    hljs.highlightBlock(ref.current);
+    hljs.highlightBlock(ref.current!);
   }, [ref]);
 
   return (
