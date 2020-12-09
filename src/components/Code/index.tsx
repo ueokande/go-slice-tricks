@@ -1,10 +1,9 @@
 import React from "react";
 import styled from "styled-components";
 
-
-import hljs from 'highlight.js';
+import hljs from "highlight.js";
 import go from "highlight.js/lib/languages/go";
-hljs.registerLanguage("go", go)
+hljs.registerLanguage("go", go);
 
 const Pre = styled.pre`
   border-radius: 1rem;
